@@ -1,0 +1,42 @@
+[1mdiff --git a/split342/README.md b/split342/README.md[m
+[1mindex e5af528..ff2174e 100644[m
+[1m--- a/split342/README.md[m
+[1m+++ b/split342/README.md[m
+[36m@@ -1,6 +1,4 @@[m
+[31m-# TEACHER[m
+[31m-Shradha Khapra[m
+[32m+[m[32m# New Project[m
+ [m
+[31m-# STUDENT[m
+[31m-Shubham Singh[m
+[31m-Aashish Singh[m
+\ No newline at end of file[m
+[32m+[m[32mThis project was created from local system[m
+[32m+[m[32mCreated by Shubham Singh[m
+[1mdiff --git a/split342/app.js b/split342/app.js[m
+[1mindex 728b749..a44252f 100644[m
+[1m--- a/split342/app.js[m
+[1m+++ b/split342/app.js[m
+[36m@@ -1 +1 @@[m
+[31m-// add new button here - feature[m
+\ No newline at end of file[m
+[32m+[m[32m// add new feature - forms[m
+\ No newline at end of file[m
+[1mdiff --git a/split342/index.html b/split342/index.html[m
+[1mindex 46a71e2..ad4c901 100644[m
+[1m--- a/split342/index.html[m
+[1m+++ b/split342/index.html[m
+[36m@@ -3,10 +3,9 @@[m
+ <head>[m
+     <meta charset="UTF-8">[m
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">[m
+[31m-    <title>Document</title>[m
+[32m+[m[32m    <title>Sample document</title>[m
+ </head>[m
+ <body>[m
+[31m-    <h1>Split 342</h1>[m
+[31m-    <p>This is the content of split 342.</p>[m
+[32m+[m[32m    <h1>Hello, World!</h1>[m
+ </body>[m
+ </html>[m
+\ No newline at end of file[m
